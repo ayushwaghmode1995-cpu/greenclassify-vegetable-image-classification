@@ -43,7 +43,7 @@ The system is trained to recognize 15 different vegetables:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/TohidealamNadaf/Greenclassify-Deep-Learning-Based-Approach-For-Vegetable-Image-Classification.git
+   git clone https://github.com/ayushwaghmode1995-cpu/greenclassify-vegetable-image-classification.git
    cd Veg-class
    ```
 
