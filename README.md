@@ -86,4 +86,4 @@ python analyze_dataset.py
 The latest model (Xception v4) achieved a validation accuracy of **99.8%**, demonstrating the efficacy of the transfer learning approach.
 
 ---
-Developed by **Tohidealam Nadaf**.
+Developed by **Ayush Waghmode**.
